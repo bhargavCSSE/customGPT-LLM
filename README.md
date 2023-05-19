@@ -1,2 +1,2 @@
 # customGPT-LLM
-Custom GPT (General Purpose Transformers) implemented in PyTorch.
+Custom GPT (Generative Pre-Trained Transformer) implemented in PyTorch.
